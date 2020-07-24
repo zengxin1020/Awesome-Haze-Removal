@@ -2,12 +2,17 @@
 
 A curated list of related resources for haze removal. 
 
+## Table of Contents
+- [Papers](#papers)
+- [Datasets](#datasets)
 
+## Papers
 
+## Datasets
 
 ## Contact
 
-For any questions regard this repository, please directly contact [Xin Zeng](work.xzeng@gmail.com).
+For any questions regard this repository, please directly contact Xin Zeng (work.xzeng@gmail.com).
 
 ## License
 
