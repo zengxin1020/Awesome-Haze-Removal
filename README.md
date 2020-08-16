@@ -8,6 +8,13 @@ A curated list of related resources for haze removal.
 
 ## Papers
 
+### arXiv
+
+- Night Time Haze and Glow Removal using Deep Dilated Convolutional Network [[paper](https://arxiv.org/pdf/1902.00855.pdf)]
+- Single Image Haze Removal using a Generative Adversarial Network [[paper](https://arxiv.org/pdf/1810.09479.pdf)]
+- Does Haze Removal Help CNN-based Image Classification? [[paper](https://arxiv.org/pdf/1810.05716.pdf)]
+- Underwater Image Haze Removal and Color Correction with an Underwater-ready Dark Channel Prior [[paper](https://arxiv.org/pdf/1807.04169.pdf)]
+
 ### 2020
 
 - Fast Deep Multi-patch Hierarchical Network for Nonhomogeneous Image Dehazing (**CVPR**) [[paper](https://arxiv.org/pdf/2005.05999.pdf)]
@@ -42,11 +49,6 @@ A curated list of related resources for haze removal.
 ### 2014
 
 - Efficient Image Dehazing with Boundary Constraint and Contextual Regularization (**ICCV**) [[paper](https://openaccess.thecvf.com/content_iccv_2013/papers/Meng_Efficient_Image_Dehazing_2013_ICCV_paper.pdf)][[code](https://github.com/gfmeng/imagedehaze)]
-
-### 2013
-### 2012
-### 2011
-### 2010
 
 ### 2009
 
