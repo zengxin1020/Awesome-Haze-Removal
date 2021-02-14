@@ -19,10 +19,13 @@ A curated list of related resources for haze removal.
 
 - Fast Deep Multi-patch Hierarchical Network for Nonhomogeneous Image Dehazing (**CVPR**) [[paper](https://arxiv.org/pdf/2005.05999.pdf)]
 - FD-GAN: Generative Adversarial Networks with Fusion-discriminator for Single Image Dehazing (**AAAI**) [[paper](https://arxiv.org/pdf/2001.06968.pdf)]
+- PMHLD: Patch Map Based Hybrid Learning DehazeNet for Single Image Haze Removal (**TIP**) [[paper](https://ieeexplore.ieee.org/document/9094006)][[code](https://github.com/weitingchen83/Dehazing-PMHLD-Patch-Map-Based-Hybrid-Learning-DehazeNet-for-Single-Image-Haze-Removal-TIP-2020)]
+- Single Image Haze Removal using a Generative Adversarial Network (**WiSPNET**) [[paper](https://arxiv.org/ftp/arxiv/papers/1810/1810.09479.pdf)][[code](https://github.com/thatbrguy/Dehaze-GAN)]
 
 ### 2019
 
 - Single Image Dehazing with a Generic Model-Agnostic Convolutional Neural Network (**IEEE SPL**) [[paper](https://ieeexplore.ieee.org/document/8686264)][[code](https://github.com/Seanforfun/GMAN_Net_Haze_Removal)]
+- PMS-Net: Robust Haze Removal Based on Patch Map for Single Images (**CVPR**) [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_PMS-Net_Robust_Haze_Removal_Based_on_Patch_Map_for_Single_CVPR_2019_paper.pdf)][[code](https://github.com/weitingchen83/PMS-Net)]
 
 ### 2018
 
@@ -35,6 +38,7 @@ A curated list of related resources for haze removal.
 - AOD-Net: All-in-One Dehazing Network (**ICCV**) [[paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Li_AOD-Net_All-In-One_Dehazing_ICCV_2017_paper.pdf)]
 - Fast Haze Removal for Nighttime Image Using Maximum Reflectance Prior (**CVPR**) [[paper](https://chaimi2013.github.io/Research/NighttimeDehazing/index.html)][[code](https://github.com/chaimi2013/MRP)]
 - Joint Transmission Map Estimation and Dehazing using Deep Networks (**IEEE TCSVT**) [[paper](https://arxiv.org/pdf/1708.00581.pdf)]
+- Deep fully convolutional regression networks for single image haze removal (**VCIP**) [[paper](https://ieeexplore.ieee.org/document/8305035)][[code](https://github.com/AlphaNext/DFCRN-for-Image-Dehazing)]
 
 ### 2016
 
@@ -49,10 +53,11 @@ A curated list of related resources for haze removal.
 ### 2014
 
 - Efficient Image Dehazing with Boundary Constraint and Contextual Regularization (**ICCV**) [[paper](https://openaccess.thecvf.com/content_iccv_2013/papers/Meng_Efficient_Image_Dehazing_2013_ICCV_paper.pdf)][[code](https://github.com/gfmeng/imagedehaze)]
+- Nighttime Haze Removal Based on a New Imaging Model (**ICIP**) [[paper](https://chaimi2013.github.io/Research/NighttimeDehazing_ICIP2014/NighttimeDehazing_ICIP2014/NighttimeDehazing_ICIP2014.pdf)][[code](https://github.com/chaimi2013/NighttimeDehaze)]
 
 ### 2009
 
-- Single Image Haze Removal Using Dark Channel Prior (**CVPR**) [[paper](http://www.lsis.org/cipa-uwp/article/biblio/dehaze_cvpr2009_SingleImageHazeRemovalUsingDarkChannelPrior.pdf)][[code](https://github.com/sjtrny/Dark-Channel-Haze-Removal)]
+- Single Image Haze Removal Using Dark Channel Prior (**CVPR**) [[paper](http://www.lsis.org/cipa-uwp/article/biblio/dehaze_cvpr2009_SingleImageHazeRemovalUsingDarkChannelPrior.pdf)][[code-Python](https://github.com/He-Zhang/image_dehaze)][[code-MATLAB](https://github.com/sjtrny/Dark-Channel-Haze-Removal)][[code-C++](https://github.com/MagicRock100/Single-Image-Haze-Removal-Using-Dark-Channel-Prior)]
 
 ### 2008
 
