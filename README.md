@@ -14,6 +14,9 @@ A curated list of related resources for haze removal.
 - Single Image Haze Removal using a Generative Adversarial Network [[paper](https://arxiv.org/pdf/1810.09479.pdf)]
 - Does Haze Removal Help CNN-based Image Classification? [[paper](https://arxiv.org/pdf/1810.05716.pdf)]
 - Underwater Image Haze Removal and Color Correction with an Underwater-ready Dark Channel Prior [[paper](https://arxiv.org/pdf/1807.04169.pdf)]
+- Deep joint rain and haze removal from single images [[paper](https://arxiv.org/pdf/1801.06769.pdf)]
+- CANDY: Conditional Adversarial Networks based Fully End-to-End System for Single Image Haze Removal [[paper](https://arxiv.org/ftp/arxiv/papers/1801/1801.02892.pdf)]
+- Learning Aggregated Transmission Propagation Networks for Haze Removal and Beyond [[paper](https://arxiv.org/pdf/1711.06787.pdf)]
 
 ### 2020
 
@@ -32,6 +35,7 @@ A curated list of related resources for haze removal.
 - A Light Dual-Task Neural Network for Haze Removal (**IEEE SPL**) [[paper](https://arxiv.org/pdf/1904.06024.pdf)]
 - DR-Net: Transmission Steered Single Image Dehazing Network with Weakly Supervised Refinement (**CVPR**) [[paper](https://arxiv.org/pdf/1712.00621.pdf)]
 - C2MSNet: A Novel approach for single image haze removal (**WACV**) [[paper](https://arxiv.org/pdf/1801.08406.pdf)]
+- Multiple Linear Regression Haze-removal Model Based on Dark Channel Prior (**IEEE CPS**) [[paper](https://arxiv.org/pdf/1904.11587.pdf)]
 
 ### 2017
 
